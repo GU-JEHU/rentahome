@@ -1,1 +1,1 @@
-# rentahome
+# Rent a Home
